@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.foi.rg.object.MainActivity" >
+
+    <item
+        android:id="@+id/gumb_kocka"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/gumb_kocka"/>
+        
+    <item
+        android:id="@+id/gumb_piramida"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/gumb_piramida"/>
+    
+    <item
+        android:id="@+id/gumb_kuca"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/gumb_kuca"/>
+
+</menu>

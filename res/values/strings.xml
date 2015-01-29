@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">3Dobject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gumb_kocka">Kocka</string>
+	<string name="gumb_piramida">Piramida</string>
+	<string name="gumb_kuca">Kuca</string>
+</resources>
